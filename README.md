@@ -10,8 +10,10 @@
   <img alignt="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alignt="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />          
   <img alignt="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img alignt="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" /> 
+  <img alignt="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />          
   <img alignt="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img alignt="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+          
 </div> 
 
 ![Snake animation](https://github.com/brunorijo/brunorijo/blob/output/github-contribution-grid-snake.svg)
