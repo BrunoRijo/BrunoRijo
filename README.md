@@ -17,6 +17,9 @@
   <img alignt="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img alignt="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img alignt="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alignt="center" height="55" width="55" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
+  <img alignt="center" height="60" width="60" src="https://user-images.githubusercontent.com/3423282/123478002-3e01fc80-d5d5-11eb-983d-d8aaa7ead156.png">
+  <img alignt="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />         
 </div> 
 
 ![Snake animation](https://github.com/brunorijo/brunorijo/blob/output/github-contribution-grid-snake.svg)
@@ -24,7 +27,7 @@
 <!--
 ##### Sobre mim:
 
-- 🔭 I’m currently working on ...
+- 🔭 Atualmente trabalho como **Analista Desenvolvedor de Software na Contmatic Phoenix**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
