@@ -22,7 +22,24 @@
   <img alignt="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />         
 </div> 
 
-![snake gif](https://github.com/brunorijo/brunorijo/blob/output/github-contribution-grid-snake.svg)
+## Meus projetos
+- Kotlin / Java
+  - [API de Produtos](https://github.com/BrunoRijo/products-api)
+  - [Resolvendo Questões do HackerRank](https://github.com/BrunoRijo/HackerRank)
+  - [Projeto Academia BackEnd](https://github.com/BrunoRijo/academia-jpa)
+  - [App para rolar dados - Android/Kotlin](https://github.com/BrunoRijo/DiceRoller)
+  - [Utilizando JPA com PostgreSQL](https://github.com/BrunoRijo/SpringJPA)
+  - [Utilizando a biblioteca Room Android/Kotlin](https://github.com/BrunoRijo/LearningRoom)
+  - [Estudando Collections em Java](https://github.com/BrunoRijo/Exercicios_Collections_Java)
+  - [Implementação de POO com Java](https://github.com/BrunoRijo/Banco-Digital-em-Java)
+  - [Estruturas de dados com Java](https://github.com/BrunoRijo/Estruturas-de-Dados-com-Java)
+- Angular/Typescript
+  - [Projeto Academia FrondEnd](https://github.com/BrunoRijo/academia-api-front)
+  - [Computer Store](https://github.com/BrunoRijo/computer-store)
+- SQL
+  - [39 Questões resolvidas do site BeeCrowd](https://github.com/BrunoRijo/Beecrowd)
+- Pós Graduação (Documentando aprendizados)
+  - [Especialização em Engenharia de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software)
 
 <!--
 ##### Sobre mim:
