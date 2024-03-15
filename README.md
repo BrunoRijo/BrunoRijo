@@ -22,7 +22,7 @@
   <img alignt="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />         
 </div> 
 
-![Snake animation](https://github.com/brunorijo/brunorijo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/brunorijo/brunorijo/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 ##### Sobre mim:
