@@ -40,6 +40,7 @@
   - [39 Questões resolvidas do site BeeCrowd](https://github.com/BrunoRijo/Beecrowd)
 - Pós Graduação (Documentando aprendizados)
   - [Especialização em Engenharia de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software)
+  - [Especialização em Arquitetura de Software (Em Andamento)](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software)
 
 <!--
 ##### Sobre mim:
@@ -52,5 +53,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
