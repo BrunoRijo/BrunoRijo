@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunorijo&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorijo&layout=compact&langs_count=7&theme=vue"/>
 </div>
- 
+<!--
 <div style="display: inline_block"><br>
   <img alignt="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alignt="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />          
@@ -21,7 +21,8 @@
   <img alignt="center" height="60" width="60" src="https://user-images.githubusercontent.com/3423282/123478002-3e01fc80-d5d5-11eb-983d-d8aaa7ead156.png">
   <img alignt="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />         
 </div> 
-
+-->
+    
 ## Meus projetos
 - Kotlin / Java
   - [API de Produtos](https://github.com/BrunoRijo/products-api)
