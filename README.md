@@ -5,10 +5,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunorijo&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorijo&layout=compact&langs_count=7&theme=vue"/>
     -->
-
 <div align="center">
-    
-![GitHub Streak](https://streak-stats.demolab.com/?user=brunorijo&theme=prussian&locale=pt_BR)
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunorijo&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=brunorijo&theme=prussian&locale=pt_BR" />
 </div>
 <!--
 <div style="display: inline_block"><br>
@@ -29,6 +28,8 @@
 -->
     
 ## Meus projetos
+- IA
+  - [Python Exercises](https://github.com/BrunoRijo/IA-Studies/tree/main/Python%20Studies)
 - Kotlin / Java
   - [API de Produtos](https://github.com/BrunoRijo/products-api)
   - [Resolvendo Questões do HackerRank](https://github.com/BrunoRijo/HackerRank)
@@ -49,11 +50,9 @@
   - [Especialização em Arquitetura de Software](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software)
 
 
-<div align="center">
-  
-  ![Contribution Calendar](https://ghchart.rshah.org/brunorijo)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunorijo&theme=tokyo-night"/>
+</p>
 <!--
 ##### Sobre mim:
 
