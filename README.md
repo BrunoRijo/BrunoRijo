@@ -1,9 +1,14 @@
 ### Olá, sou o Bruno Rijo 👋
-
+<!--
 <div align="center">
   <a href="https://github.com/brunorijo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunorijo&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorijo&layout=compact&langs_count=7&theme=vue"/>
+    -->
+
+<div align="center">
+    
+![GitHub Streak](https://streak-stats.demolab.com/?user=brunorijo&theme=prussian&locale=pt_BR)
 </div>
 <!--
 <div style="display: inline_block"><br>
@@ -43,6 +48,12 @@
   - [Especialização em Engenharia de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software)
   - [Especialização em Arquitetura de Software](https://github.com/BrunoRijo/Especializa-o-em-Arquitetura-de-Software)
 
+
+<div align="center">
+  
+  ![Contribution Calendar](https://ghchart.rshah.org/brunorijo)
+  
+</div>
 <!--
 ##### Sobre mim:
 
